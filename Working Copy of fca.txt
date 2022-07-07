@@ -1,0 +1,14 @@
+
+
+https://help.zscaler.com/zia/about-zscaler-enforcement-nodes
+Public Service Edges have significant fault tolerance capabilities. They are deployed in active-active mode to ensure availability and redundancy and Zscaler monitors and maintains its Public Service Edges to ensure continuous availability.
+
+https://help.zscaler.com/zia/about-zscaler-cloud-architecture
+The CA consists of one active server and two servers in passive standby mode. The active CA replicates data in real time to the two standby CAs, so any of them can become active at any time. Each server is hosted in a separate location to ensure fault tolerance.
+
+You may find the list of certifications zscaler has in below link 
+https://www.zscaler.com/platform/privacy-and-compliance?utm_source=google&utm_medium=cpc&utm_campaign=google-ads-na#white-papers-attestations
+
+Oaj@ish123
+
+Pinging kerberos.zscloud.net [165.225.73.67] with 32 bytes of data:
