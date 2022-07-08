@@ -1,2 +1,2 @@
 first edit on file 1 
-second edit on this file 
+delted second line and adding some new content 
